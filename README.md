@@ -1,4 +1,4 @@
-# Ecommerce Website using MERN Stack 👨‍🎨👨‍🎨👨‍🎨
+# Ecommerce Website using MERN Stack
 
 
 **For Hosting(Heroku Alternative)⤵️**
