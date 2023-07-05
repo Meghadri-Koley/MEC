@@ -13,5 +13,3 @@ const connectDatabase = () => {
 };
 
 module.exports = connectDatabase;
-
-// DB_URI = mongodb+srv://Meghadri:Meghadri@2002@oagms.ori9jho.mongodb.net/OAGMS?retryWrites=true&w=majority
