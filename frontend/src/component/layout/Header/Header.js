@@ -3,15 +3,16 @@ import { ReactNavbar } from "overlay-navbar";
 import {MdAccountCircle } from "react-icons/md";
 import {MdSearch } from "react-icons/md";
 import {MdAddShoppingCart } from "react-icons/md";
-import logo from "../../../images/logo.png";
+import logo from "../../../images/MEC.png";
 
 const options = {
-  burgerColorHover: "#eb4034",
+  burgerColor:"white",
+  burgerColorHover: "#9811f7",
   logo,
   logoWidth: "20vmax",
   navColor1: "white",
   logoHoverSize: "10px",
-  logoHoverColor: "#eb4034",
+  logoHoverColor: "#9811f7",
   link1Text: "Home",
   link2Text: "Products",
   link3Text: "Contact",
@@ -26,17 +27,17 @@ const options = {
   nav2justifyContent: "flex-end",
   nav3justifyContent: "flex-start",
   nav4justifyContent: "flex-start",
-  link1ColorHover: "#eb4034",
+  link1ColorHover: "#9811f7",
   link1Margin: "1vmax",
   profileIconUrl: "/login",
   profileIcon:true,
-  profileIconColor: "rgba(35, 35, 35,0.8)",
+  profileIconColor: "#9811f7",
   ProfileIconElement: MdAccountCircle, 
   searchIcon:true,
-  searchIconColor: "rgba(35, 35, 35,0.8)",
+  searchIconColor: "#9811f7",
   SearchIconElement:MdSearch,
   cartIcon:true,
-  cartIconColor: "rgba(35, 35, 35,0.8)",
+  cartIconColor: "#9811f7",
   CartIconElement:MdAddShoppingCart,
 };
 

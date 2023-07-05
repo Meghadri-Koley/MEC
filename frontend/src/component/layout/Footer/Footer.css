@@ -2,7 +2,7 @@ footer {
   margin-top: 10vmax;
   padding: 2vmax;
   background-color: rgb(34, 33, 33);
-  color: white;
+  color: rgb(255, 230, 252);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -16,7 +16,7 @@ footer {
 .midFooter > h1 {
   font-size: 4vmax;
   font-family: "Roboto";
-  color: #eb4034;
+  color: #a200ff;
 }
 .midFooter > p {
   max-width: 60%;
@@ -25,10 +25,10 @@ footer {
 }
 
 .linkedinSvgIcon,.instaSvgIcon{
-  color: aliceblue;
+  color: rgb(183, 0, 255);
   margin: 0.3rem;
   
 }
 /* .instaSvgIcon{
-  color: aliceblue;
+  color: rgb(183, 0, 255);
 } */

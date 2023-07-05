@@ -7,7 +7,7 @@ import InstagramIcon from "@material-ui/icons/Instagram";
 
 const About = () => {
   const visitInstagram = () => {
-    window.location = "https://instagram.com/oagms";
+    window.location = "https://instagram.com/mec";
   };
 
 
@@ -22,21 +22,21 @@ const About = () => {
           <div>
             <Avatar
               style={{ width: "10vmax", height: "10vmax", margin: "2vmax 0" }}
-              src="https://meghadrikoley.vercel.app/img/hero.png"
-              alt="Founder"
+              src=".../../../images/meclogo.png"
+              alt="Comapny Logo"
             />
-            <Typography>OAGMS</Typography>
+            <Typography>MEC</Typography>
             <Button onClick={visitInstagram} color="primary">
               Visit Instagram
             </Button>
             <span>
-              OAGMS is platform for Art lovers. Users to buy and sell arts from all across the world. FAST||SECURE||UNIQUE
+               FAST || SECURE || UNIQUE
             </span>
           </div>
           <div className="aboutSectionContainer2">
             <Typography component="h2">Our Handles</Typography>
             <a
-              href="https://www.linkedin.com/channel/oagms"
+              href="https://www.linkedin.com/channel/mec"
               target="blank"
             >
               <YouTubeIcon className="youtubeSvgIcon" />

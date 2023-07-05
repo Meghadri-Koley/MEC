@@ -4,7 +4,7 @@
 }
 
 body {
-  cursor: url("./images/testcursor.png"), auto;
+  cursor: url("./images/cursor.png"), auto;
 }
 
 /* Custom ScrollBar */
@@ -23,7 +23,7 @@ body {
 ::-webkit-scrollbar-thumb {
   border: 3.5px solid transparent;
   border-radius: 100px;
-  background-color: #ff3737;
+  background-color: #a200ff;
   background-clip: content-box;
 }
 
